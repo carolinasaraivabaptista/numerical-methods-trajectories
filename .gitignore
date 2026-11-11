@@ -1,0 +1,5 @@
+*.asv
+*.tex
+*.png
+!figures/*.png
+.DS_Store
