@@ -1,5 +1,10 @@
 # Numerical Methods for Drone and Satellite Trajectories (MATLAB)
 
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Topic](https://img.shields.io/badge/topic-numerical%20analysis-8A2BE2)
+![Methods](https://img.shields.io/badge/methods-splines%20%C2%B7%20quadrature%20%C2%B7%20RK4-0A9EDC)
+![Applications](https://img.shields.io/badge/applications-drones%20%C2%B7%20orbits-1baf7a)
+
 Numerical analysis applied to two motion problems: planning and reconstructing a **drone's flight**, and simulating a **satellite orbit** in the Earth–Moon system. Everything is implemented by hand in MATLAB: quadrature, constrained least squares, spline interpolation, kernel smoothing, finite differences and Runge–Kutta integrators.
 
 Group project for *Numerical Analysis* (Instituto Superior Técnico, 2025).
